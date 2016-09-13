@@ -1,4 +1,4 @@
-import import java.io.*;
+import java.io.*;
 
 class calculator
 {
